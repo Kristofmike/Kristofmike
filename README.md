@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kristofmike
 - 👀 I’m interested in Data and Tech.
-- 🌱 I’m currently learning Web Dev and Python
+- 🌱 I’m currently work as DevOps
 - 📫 How to reach me https://t.me/Kristofmike
 
 <!---
